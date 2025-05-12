@@ -7,3 +7,5 @@ Premier commit sur test
 Nouveau commit sur main
 
 Test dépot depuis VSCode
+
+Ajout du conflit
