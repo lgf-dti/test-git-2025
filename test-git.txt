@@ -9,3 +9,5 @@ Nouveau commit sur main
 Test dépot depuis VSCode
 
 Ajout de code après la création de conflit
+
+Ajout du conflit
